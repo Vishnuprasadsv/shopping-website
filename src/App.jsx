@@ -1,5 +1,5 @@
 import './App.css'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import Header from './components/Header'
 import Scrollbar from './components/Scrollbar'
 import NewArrival from './components/NewArrival'
