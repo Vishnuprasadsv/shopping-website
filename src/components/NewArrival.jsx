@@ -23,11 +23,11 @@ const NewArrival = () => {
 
   return (
     <>
-    <div class="mt-[30px] mb-20">
+    <div className="mt-[30px] mb-20">
         <div
-          class="w-[140px] bg-[#EBD96B] h-10 absolute rounded-tl-[140%] rotate-1 rounded-br-[130%] rounded-tr-[-20%] ml-[298px] mt-5"
+          className="w-[140px] bg-[#EBD96B] h-10 absolute rounded-tl-[140%] rotate-1 rounded-br-[130%] rounded-tr-[-20%] ml-[298px] mt-5"
         ></div>
-        <div class="font-black text-[45px] relative ml-[70px] mt-[60px]">
+        <div className="font-black text-[45px] relative ml-[70px] mt-[60px]">
           NEW ARRIVALS
         </div>
       </div>
