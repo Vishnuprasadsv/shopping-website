@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+
+.bg_color{
+    background: linear-gradient(to top,
+  #E0C340 0%,
+  #DFC23E 4%,
+  #E1C441 7%,
+  #E3C743 10%,
+  hsla(50, 74%, 58%, 0.896) 13%,
+  #E6C744 16%,
+  #E7C845 20%,
+  #E5C643 24%,
+  #E6C945 31%,
+  #E3C743 37%,
+  #E9CA48 43%,
+  #EDCE49 50%,
+  #F0D44C 57%,
+  #F4D84F 63%,
+  #F6DA52 67%,
+  #F7DB53 74%,
+  #F9DD55 79%,
+  #F9DF56 86%,
+  #FAE157 93%,
+  #F9DF56 100%
+);
+}
